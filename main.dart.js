@@ -67424,7 +67424,7 @@ case 3:p.Gh(b)
 case 1:return A.T(q,r)}})
 return A.U($async$ob,r)},
 Zu(){this.a.toString
-switch(0){case 0:return A.a2O("assets/rive/developer.riv",null)}},
+switch(0){case 0:return A.a2O("/rive/developer.riv",null)}},
 bC(a){var s,r=this
 r.cj(a)
 r.a.toString
